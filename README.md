@@ -13,7 +13,7 @@ _一个用于下载Project Sekai的等待界面漫画的工具_
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xiaocaoooo/ComicPJSK)](https://github.com/xiaocaoooo/ComicPJSK/releases)
 [![GitHub Release Date](https://img.shields.io/github/release-date/xiaocaoooo/ComicPJSK)](https://github.com/xiaocaoooo/ComicPJSK/releases)
 ![last commit](https://img.shields.io/github/last-commit/xiaocaoooo/ComicPJSK?style=flat)
-![language](https://img.shields.io/badge/language-Dart-blue)
+![language](https://img.shields.io/badge/language-Python-blue)
 
 </div>
 
